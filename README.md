@@ -31,3 +31,18 @@ Established science is the starting point of this book. The central dogma, cell-
 Every chapter follows the same contract. Reconstructing an observed structure is classified as INTERPRETATION. A conditional distribution for a future transition not fixed by present information is classified as PREDICTION. Mathematically closed relations are marked EXACT; success inside a model is marked COMPUTATIONAL PASS; and claims lacking sufficient direct evidence remain OPEN. This discipline supports strong claims when warranted and requires withdrawal when they fail.
 
 **Core proposition** DNA is not life itself; it is SOURCE. Life is the recurrent process by which SOURCE passes through LAW and STATE and is materially rendered as proteins, metabolism, membranes, division, and lineage.
+
+---
+
+## Central corpus index
+
+This work is part of the open research and publishing corpus of **Wonsik Choi (최원식)**.
+
+- [Central Research & Publications Index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/PUBLICATIONS.md)
+- [Public GitBook index](https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications)
+- [Machine-readable corpus index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/works.json)
+- Identity: [janefather@gmail.com](mailto:janefather@gmail.com)
+
+Rights remain those stated in this repository and its linked archival record.
+
+**Copyright (C) 2026 Wonsik Choi**
