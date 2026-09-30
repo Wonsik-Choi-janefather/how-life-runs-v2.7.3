@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using this metadata."
+title: "How Life Runs: From DNA to Proteins, Cells, and Lineage"
+type: generic
+version: 2.7.3
+date-released: 2026-09-21
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    orcid: "https://orcid.org/0009-0001-4263-9772"
+  - family-names: Choi
+    given-names: Jeongin
+repository-code: "https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3"
+url: "https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3"
+abstract: >-
+  An integrated WRRA interpretation of DNA, proteins, epigenetic memory,
+  cell differentiation, minimal cells, intracellular transport, and early life.
+keywords:
+  - WRRA
+  - molecular biology
+  - epigenetics
+  - cell differentiation
+  - minimal life
