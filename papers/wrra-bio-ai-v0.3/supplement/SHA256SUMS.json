@@ -1,0 +1,16 @@
+{
+  "README_SUPPLEMENT.txt": "4344ff7719a86bdd327eab955ed0d5577009a3152d7f1381562821548fcd1cef",
+  "reproduce.py": "639ac93c819c3ae58fb20dca44b97c8e6e845472fbc2d690cadba74fef04e78d",
+  "boundary_model.py": "cd39c164ba76100f24b0f7453aaf78293e6a07b9c2d1c621479949ce824dca85",
+  "integrated_model.py": "cf4b15634ff3a8117d9169dcc6819e30a1b5b30b1bc5026cc780a8e043c1383f",
+  "build_ledgers.py": "602cc3efab2d7b3d207dd42c5471ab10a8ba2378000622eb0daf42b2833bc008",
+  "audit.py": "8ac796ab6c16e23aa9a0a0fd69ea541dad58497c91cd7086c91120f26dc9f183",
+  "make_figure.py": "0f3b14230c4de2bbd51e3e4d45e65c3e5832cfc42b213a55d16e15c422caca8d",
+  "results.json": "a85127aceb0c66dd9026cfc5b1767eaf47f96e893e90c2db57de6fe71cf2ebe7",
+  "boundary_results.json": "c71f4e7f32e7d33177c1f305937a17e5414a6014f8b3c102de69c478a3669606",
+  "integrated_results.json": "03f980fee3f77e8579f42569d66f61d3afdbd13aee1cf17d53904e479d972a0c",
+  "evidence_ledger.json": "1bdd77d22f3a0f36d12bf1d32b190eae0befbd856b5c8e18b704610630169ff4",
+  "audit_results.json": "9219e77312d82dc793c30d429615c21db6cf1e6823f954d347c49ad2f47933b1",
+  "Figure_1.png": "8744e46f01e8246e3bc48fd9c95dda4fb533f3a1e982eb318981915f0b07b8bd",
+  "Figure_1.pdf": "578aa0502600ef745c29d373830df760bdfdd1976cd3933f0263ee207455fdc5"
+}

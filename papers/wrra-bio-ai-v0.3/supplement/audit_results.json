@@ -1,0 +1,146 @@
+{
+  "claims": [
+    {
+      "claim_id": "C1",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Direct narrow report-level statement; not independent replication.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C2",
+      "check_verdict": "CONTRACT_FAIL",
+      "claim_conclusion": "not established by checker",
+      "sufficiency_basis": null,
+      "unknown_requirements": [],
+      "failed_requirements": [
+        "Complete functional assignment in selected report"
+      ],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C3",
+      "check_verdict": "OPEN",
+      "claim_conclusion": "not established by checker",
+      "sufficiency_basis": null,
+      "unknown_requirements": [
+        "Complete mechanistic links supplied"
+      ],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C4",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Direct narrow report-level statement; not independent replication.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "specified in curated record"
+    },
+    {
+      "claim_id": "C5",
+      "check_verdict": "OPEN",
+      "claim_conclusion": "not established by checker",
+      "sufficiency_basis": null,
+      "unknown_requirements": [
+        "Permitted external exchanges specified",
+        "New internally made functional machinery established",
+        "Required persistence horizon established"
+      ],
+      "failed_requirements": [],
+      "biological_carrier_status": "specified in curated record"
+    },
+    {
+      "claim_id": "C6",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Constructive equality under declared recurrence; biological feasibility not asserted.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C7",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Binomial formula and monotonicity in declared candidate family only.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C8",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Narrow report-level statement; not functional validation.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C9",
+      "check_verdict": "OPEN",
+      "claim_conclusion": "not established by checker",
+      "sufficiency_basis": null,
+      "unknown_requirements": [
+        "Substrate flux and energy dependence established",
+        "Target horizon and required flux established"
+      ],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C10",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Narrow report-level statement; not functional validation.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C11",
+      "check_verdict": "OPEN",
+      "claim_conclusion": "not established by checker",
+      "sufficiency_basis": null,
+      "unknown_requirements": [
+        "Substrate flux and energy dependence established",
+        "Target horizon and required flux established"
+      ],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C12",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Exact enumeration under specified abstract costs and capacities.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C13",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Exact finite model enumeration, not measured cell regeneration.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    },
+    {
+      "claim_id": "C14",
+      "check_verdict": "CHECKS_SATISFIED",
+      "claim_conclusion": "declared narrow conclusion; see manually supplied sufficiency basis",
+      "sufficiency_basis": "Targets restore each candidate parent inventory; not comparison at one common fixed inventory endpoint.",
+      "unknown_requirements": [],
+      "failed_requirements": [],
+      "biological_carrier_status": "OPEN"
+    }
+  ],
+  "rejected_ledger_mutations": 7,
+  "limitation": "Evidence truth, source semantics, and sufficiency bases require human adjudication."
+}

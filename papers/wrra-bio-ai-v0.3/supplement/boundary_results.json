@@ -1,0 +1,69 @@
+{
+  "provenance": "constructed model; abstract units, not biological measurements",
+  "no_import": {
+    "inventories": [
+      {
+        "synthesis": 0,
+        "transporter": 0,
+        "cost": 0,
+        "capacity": 0,
+        "feasible": false
+      },
+      {
+        "synthesis": 0,
+        "transporter": 1,
+        "cost": 1,
+        "capacity": 0,
+        "feasible": false
+      },
+      {
+        "synthesis": 1,
+        "transporter": 0,
+        "cost": 3,
+        "capacity": 1,
+        "feasible": true
+      },
+      {
+        "synthesis": 1,
+        "transporter": 1,
+        "cost": 4,
+        "capacity": 1,
+        "feasible": true
+      }
+    ],
+    "minimum": 3
+  },
+  "import_permitted": {
+    "inventories": [
+      {
+        "synthesis": 0,
+        "transporter": 0,
+        "cost": 0,
+        "capacity": 0,
+        "feasible": false
+      },
+      {
+        "synthesis": 0,
+        "transporter": 1,
+        "cost": 1,
+        "capacity": 1,
+        "feasible": true
+      },
+      {
+        "synthesis": 1,
+        "transporter": 0,
+        "cost": 3,
+        "capacity": 1,
+        "feasible": true
+      },
+      {
+        "synthesis": 1,
+        "transporter": 1,
+        "cost": 4,
+        "capacity": 2,
+        "feasible": true
+      }
+    ],
+    "minimum": 1
+  }
+}

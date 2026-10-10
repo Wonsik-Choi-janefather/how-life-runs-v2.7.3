@@ -1,0 +1,28 @@
+{
+  "title": "Structuring AI assisted biological research with WRRA execution contracts",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-10-11",
+  "version": "0.3",
+  "creators": [
+    {
+      "name": "Choi, Wonsik",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0001-4263-9772"
+    },
+    {
+      "name": "Choi, Jeongin",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Biological output, internal regeneration and reliable continuation are distinct endpoints, yet an AI-assisted explanation can connect them without preserving the conditions required for that inference. We introduce WRRA execution contracts that represent source information, present state, material machinery, boundary exchanges, phenotype and observation in a traceable claim ledger. Literature reconstructions concern a minimal genome, reconstituted translation and computational transporter annotation. Constructed calculations then connect resource ownership, partition reliability and regeneration capacity. Identical active output can arise from external replacement or internal regeneration. With fair partition of nine units and an immediate competence threshold of two, the probability that both daughters are competent is 0.9609375. Requiring each daughter to restore nine units within a fixed horizon reduces joint success to 0.8203125 when internal production capacity is six units per daughter; seven units are minimally sufficient for the stated 95% target. A separate feasibility argument makes the minimum internal inventory conditional on permitted imports. These results do not establish whole-cell autonomy or indefinite lineage survival. A three-valued checker preserves unresolved requirements and distinguishes satisfaction of necessary checks from evidential sufficiency. The accompanying source ledger and exact computations are reproducible. The contribution is a unified representation of biological dependencies and their consequences for claim admissibility; improved language-model performance is not asserted. A comparative protocol specifies how the proposed AI workflow could be tested.\n\nSubmitted to Journal of Theoretical Biology on 11 October 2026. Not an accepted or externally peer-reviewed journal publication. No external funding; no competing interests.",
+  "keywords": [
+    "theoretical biology",
+    "artificial intelligence",
+    "WRRA",
+    "execution contract",
+    "minimal cells",
+    "cell-free systems",
+    "provenance"
+  ]
+}

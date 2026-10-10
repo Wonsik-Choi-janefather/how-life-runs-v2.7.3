@@ -1,0 +1,104 @@
+{
+  "fixed_capacity_contrast": [
+    {
+      "n": 8,
+      "k": 2,
+      "internal_capacity_per_daughter": 4,
+      "effective_threshold": 4,
+      "probability": 0.2734375,
+      "exact_probability": "35/128"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 4,
+      "effective_threshold": 5,
+      "probability": 0.0,
+      "exact_probability": "0"
+    }
+  ],
+  "assumptions": "One component; fair independent partition; each daughter can add any integer amount from 0 to R within the horizon if immediately competent; no external active machinery; fixed permitted substrates; no turnover; restoration means n units only, not full cell state.",
+  "rows": [
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 0,
+      "effective_threshold": 9,
+      "probability": 0.0,
+      "exact_probability": "0"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 1,
+      "effective_threshold": 8,
+      "probability": 0.0,
+      "exact_probability": "0"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 2,
+      "effective_threshold": 7,
+      "probability": 0.0,
+      "exact_probability": "0"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 3,
+      "effective_threshold": 6,
+      "probability": 0.0,
+      "exact_probability": "0"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 4,
+      "effective_threshold": 5,
+      "probability": 0.0,
+      "exact_probability": "0"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 5,
+      "effective_threshold": 4,
+      "probability": 0.4921875,
+      "exact_probability": "63/128"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 6,
+      "effective_threshold": 3,
+      "probability": 0.8203125,
+      "exact_probability": "105/128"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 7,
+      "effective_threshold": 2,
+      "probability": 0.9609375,
+      "exact_probability": "123/128"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 8,
+      "effective_threshold": 2,
+      "probability": 0.9609375,
+      "exact_probability": "123/128"
+    },
+    {
+      "n": 9,
+      "k": 2,
+      "internal_capacity_per_daughter": 9,
+      "effective_threshold": 2,
+      "probability": 0.9609375,
+      "exact_probability": "123/128"
+    }
+  ],
+  "minimum_R_for_95_percent": 7
+}
