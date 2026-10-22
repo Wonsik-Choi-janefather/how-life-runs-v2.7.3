@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it using this metadata."
 title: "How Life Runs: From DNA to Proteins, Cells, and Lineage"
 type: generic
-version: 2.7.3
-date-released: 2026-09-21
+version: 2.7.4
+date-released: 2026-10-22
 authors:
   - family-names: Choi
     given-names: Wonsik

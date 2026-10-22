@@ -98,6 +98,13 @@ Specifying membrane transport, energy, and checkpoints in the five gates of a mi
 
 The existence of transport, chemiosmosis, and checkpoints at the boundary between interpretation and prediction is an established biological fact. To predict the doubling time and cause of failure of a specific minimal cell, data on the number of transporters, membrane leakage, metabolic flux, ATP turnover, DNA damage, and the timing of each gate are required.
 
+
+### Declaring Resource Boundaries and Operating Conditions
+
+The scope of self-maintenance must specify the observation period, generations and external support. Receiving nutrients and energy as an open system does not by itself rule out self-maintenance. However, supplying raw materials and repeatedly supplying assembled essential execution machinery are different dependencies and must be recorded separately.
+
+Current location and origin are different fields. A material imported into a cell does not thereby become internally produced. Conversely, a molecule synthesized inside from external precursors should retain separate records of precursor origin and synthesis ownership. Amounts of matter, energy and functional activity require separate units and ledgers. Unmeasured flows are not zeros. These distinctions allow fair comparisons across media and support conditions.
+
 ## Next Step
 
 How essential molecules are passed to the two daughters when the cell divides determines lineage closure.

@@ -94,6 +94,13 @@ Table 40. Binomial variation magnitude calculated using reported Syn3A blastocys
 
 This percentage is the analytical expectation of the approximate binomial null model, not a sampled measurement per daughter cell. Direct completion requires time tracking of one mother cell and two daughter cells, volume correction, molecular counting, pre-registered D\_x allowable intervals, and verification of the φ threshold of all essential molecular groups.
 
+
+### Separate Decisions for Division and Executable Inheritance
+
+Division observations and offspring execution capacity belong in different ledger fields. Connect parent and daughter identifiers, observation times, inherited information, resources and machinery, post-division function, and tracking losses. Presence of required components and activity of the corresponding function are also distinct. An increase in cell count alone does not establish continued execution in both daughters.
+
+Aggregate checks must accompany individual-lineage checks. Equal totals can conceal a missing essential component in one daughter or repeated counting of the same observation. Unobserved daughters and lost lineages remain missing records, rather than disappearing rows. When individual molecules cannot be identified, record molecular pools and their uncertainty. Computational identifiers do not constitute empirical tracking of individual physical molecules.
+
 ## Next Step
 
 The next chapter separates persistence and autonomy when externally supported synthetic cells continue through generations.

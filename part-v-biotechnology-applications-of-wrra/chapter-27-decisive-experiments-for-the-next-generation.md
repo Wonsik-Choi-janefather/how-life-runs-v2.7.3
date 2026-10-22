@@ -22,6 +22,13 @@ The most efficient next step in research is to precisely target the weak links o
 
 ## Research Content and Validation Results
 
+
+### Application Priorities for the Life-Execution Audit
+
+The application order is executable inheritance, resource boundaries including external supply, and the connection between information and interpretation machinery. Joint checks of individual lineages and totals, and the observation-control distinction, apply throughout. This order does not replace the existing research plan below; it specifies the common criteria for deciding which claims its results support.
+
+The first output is a claim ledger with sources and conditions. The second is an evidence map with missing or inconsistent connections. The third lists interpretations not distinguished by the present evidence and observables that could distinguish them. Proposed priorities should reflect the importance of the connection, the evidence gap and data comparability, with researchers assessing biological validity and feasibility. Ledger preparation, model execution and biological validation have different completion states.
+
 ## Priority Research Plan
 
 | **priority** | **research**                                            | **Pre-registration Key Points**                                                    | **Success/Failure Criteria**                                     |
@@ -74,6 +81,11 @@ Table 43. Argument terms to be fixed in subsequent revisions.
 | FAIL               | The measurement is on the rejection side of the declaration threshold.                                                   |
 | OPEN               | Measurement of required resolution is unavailable or inaccessible.                                                       |
 | NOT ESTABLISHED    | Even if the narrow threshold is passed, there is insufficient evidence to support a stronger argument.                   |
+
+
+### The Boundary between Existing Results and New Proposals
+
+The five-part joint audit and cross-study comparison procedure introduced in this revision are proposals for application and evaluation. Existing PURE recalculations, the Syn3A partition null model and WRRA-Worm internal checks retain their original scope. This revision does not report new experiments, empirical tracking of individual molecules or validation of a multi-institution integrated model. Stronger conclusions require evidence at the corresponding resolution and under the corresponding conditions.
 
 ## Conclusion
 

@@ -171,6 +171,44 @@ Fine-tuning is considered after a sufficient number of iterations have been accu
 
 Undisclosed patient data, pre-patent sequences, or institutionally restricted data are not uploaded until the preservation, learning, and sharing policies and research ethics of the AI service being used are verified. Sensitive operations are performed in an approved closed environment or local model, and only the minimum necessary provenance is retained in the public version. Reproducibility and openness cannot take precedence over personal information, biosafety, or intellectual property rights.
 
+
+### Connecting Different Studies through a Common Grammar
+
+Use the WRRA Core 1.0 elements SOURCE, RELATION/LAW, STATE/RESIDUE, BOUNDARY, COMMON CARRIER, UPDATE, RENDERER, PHENOTYPE and OBSERVABLE/RECORD/LEDGER as a comparison framework. This is a biotechnology Domain Profile, not a modification of the Core. Every record should retain the system, state owner, source, operating conditions, time or generation, and claim level.
+
+Papers and presentations can be connected in an integrated research map. Results from different strains, media, measurement methods and time windows must not be pooled as if obtained in one experiment. Mark connections that are directly comparable, require condition matching, or cannot currently be compared. Link papers, presentations and later summaries of the same study so they are not counted as independent replications.
+
+Proceed in this order: verified inputs, WRRA-specific transformation, outputs, failure conditions and conclusions. Inputs preserve original observations and computational results. The transformation maps different descriptions to execution elements and traces the connections of information, resources and machinery to subsequent functions and generations. Outputs are an evidence map, missing connections and comparable research questions. Connections not actually computed must not be presented as a computed integrated model.
+
+
+### Five Criteria for a Joint Audit
+
+First, audit executable inheritance. Record division events, each daughter's essential components, subsequent function and lineage persistence separately. Missing daughter observations or unverified essential components leave that lineage's closure OPEN. Distinguish an unobserved division from an observed division followed by functional failure.
+
+Second, audit resource boundaries. Separate internal stocks, external inputs, internal production or reuse, exports and losses. Counting supplied assembled machinery as internal reproduction invalidates the self-maintenance inference. If required external flows were not measured, the scope of autonomy cannot be established.
+
+Third, audit the connection between information and interpretation machinery. Check each link from genetic information through the present state of its machinery to active products and function. Inferring function solely from information presence omits evidence required for an execution claim. An unmeasured intermediate connection must be labelled a hypothesis.
+
+Fourth, audit individual lineages and aggregate totals together. Check broken parent-child links, duplicate identifiers and inconsistent observation times before comparing balances. Matching totals do not guarantee execution capacity in a particular lineage. Pool-level tracking leaves individual molecular histories unidentifiable.
+
+Fifth, distinguish observation from control. Separate measurements, inferred states, evaluated intervention effects and costs. Observational fit alone does not establish control success. Identified state-estimation errors or model mismatch should be recorded separately from the intervention effect.
+
+
+### Required Fields in an Audit Ledger
+
+Each row represents one claim or state transition. Record its ID and source location, system and owner, time and generation, evidence type, execution element and upstream dependencies, units and uncertainty, external support, output, failure condition and current decision. Experimental observations, an author's model outputs, this book's recalculations and new hypotheses are different evidence types. Transcript amount, protein amount, activity and survival must not be collapsed into a single success measure.
+
+Changes in current stock can be checked as starting stock plus inputs and formation minus outputs and consumption. Use the same species, compartment, time window and units. Internal transfers must not become new system-wide inputs. Reactions create and consume molecular species, so conservation of molecular counts must not be confused with elemental material balances. ATP turnover, mass and functional activity belong in separate ledgers.
+
+A residual discrepancy does not immediately establish biological loss. First examine detection limits, omitted flows, timing, uncertainty models and transformation rules. Unmeasured entries remain null with a reason; tolerances and stopping criteria must not be adjusted to fit the result. This is a proposed auditable specification. It is not an implemented result until actual data have been entered and checks executed.
+
+
+### Testing the Usefulness of the Common Grammar
+
+For an initial application, select a small functional scope and a fixed evidence set. Compare conventional literature organization with the WRRA ledger for evidence connections, incorrect links, omissions, review time and inter-reviewer agreement. Experts should recheck source locations to distinguish cleaner presentation from real reductions in review burden and errors.
+
+Making comparable questions clearer while preserving conditions and provenance is a practical achievement in its own right. Reconstruction of known values can also be recognized as an explanatory achievement within its scope. New forecasts and control results require their own validation. If the common grammar brings no observed benefit, reduce its scope and complexity. Automated AI classification and linking, and reductions in human review burden, are outcomes to test rather than assumed established capabilities.
+
 ## Next Step
 
 In the final chapter, the closed results and remaining decisive experiments are organized into a single research lineage.

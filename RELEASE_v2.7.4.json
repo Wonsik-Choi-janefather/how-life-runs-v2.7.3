@@ -1,0 +1,108 @@
+{
+  "version": "2.7.4",
+  "date": "2026-10-22",
+  "authors": [
+    "Wonsik Choi",
+    "Jeongin Choi"
+  ],
+  "core": "WRRA Core 1.0",
+  "changes": [
+    {
+      "source_heading": null,
+      "english_heading": null,
+      "paragraph_count": 1
+    },
+    {
+      "source_heading": "정보에서 기능까지의 연결을 기록하기",
+      "english_heading": "Recording the Connection from Information to Function",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "자원 경계와 수행 조건의 선언",
+      "english_heading": "Declaring Resource Boundaries and Operating Conditions",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "분열과 실행 가능한 상속의 별도 판정",
+      "english_heading": "Separate Decisions for Division and Executable Inheritance",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "지원 조건을 보존한 지속성 비교",
+      "english_heading": "Comparing Persistence While Preserving Support Conditions",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "상태를 읽는 일과 제어하는 일",
+      "english_heading": "Reading a State and Controlling It",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "서로 다른 연구를 공통 문법으로 연결하기",
+      "english_heading": "Connecting Different Studies through a Common Grammar",
+      "paragraph_count": 3
+    },
+    {
+      "source_heading": "다섯 항목을 함께 점검하는 기준",
+      "english_heading": "Five Criteria for a Joint Audit",
+      "paragraph_count": 5
+    },
+    {
+      "source_heading": "감사 장부의 필수 기록",
+      "english_heading": "Required Fields in an Audit Ledger",
+      "paragraph_count": 3
+    },
+    {
+      "source_heading": "공통 문법의 효용을 검증하는 방법",
+      "english_heading": "Testing the Usefulness of the Common Grammar",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "생명 실행 감사의 적용 우선순위",
+      "english_heading": "Application Priorities for the Life-Execution Audit",
+      "paragraph_count": 2
+    },
+    {
+      "source_heading": "기존 성과와 새 적용 제안의 경계",
+      "english_heading": "The Boundary between Existing Results and New Proposals",
+      "paragraph_count": 1
+    },
+    {
+      "source_heading": null,
+      "english_heading": null,
+      "paragraph_count": 4
+    }
+  ],
+  "files": {
+    "CHANGELOG_v2.7.4.md": "8a560b03feef619e30fb0897edb09f8984317cdbd5aa7b7eb632a0672cccac33",
+    "CITATION.cff": "242ec00cce983af13236afba5de64f172c6f4ad0a2d4b50cd2f15e78a3cfdcea",
+    "README.md": "2655022cd50842c83571d4e20acb5271b51f8c6ca7141c8fc503719a2639ada8",
+    "appendices/glossary.md": "23fa0966b29bd347c891179dcc1f1bd0ccadd8f6fa4d44bb4ca7e96c814c62b3",
+    "appendix-06-glossary.md": "3462d456ffcda98e3000550ed9566cb8c9da2dffb5223b5dd1a88688255340f9",
+    "chapter-10-rna-and-proteins-as-material-execution-machinery.md": "cf13ae5f1540a690ae8dfa8f29fdf69bbc55b43957cbed86fdaa8f7dc725d425",
+    "chapter-13-minimal-cells-and-jcvi-syn3a.md": "440c7a45c0e06cf2b7074b202a21156bb6636f396372318052ed058ec9a8bafe",
+    "chapter-14-what-does-a-mother-cell-distribute-to-its-two-daughters.md": "311d7e825338e4bb5fda81bba0c0c6864551ddab31119dab50c83f777b4e2b88",
+    "chapter-15-synthetic-protocells-and-the-birth-of-generations.md": "cfc24d459b351e868509c0347a5214d63ddf63a27365f720be011bab25dbc026",
+    "chapter-24-extending-wrra-to-the-nervous-system-and-behavior.md": "9d9391c30b5a4daaf25d758eea1c0ae75e015bb5c14fd20d965abc41062ec72f",
+    "chapter-26-biotechnology-applications-of-wrra.md": "838dafd5612bc458ca9d63a5fea63377ce472213169ca1f2ed4f7809646c6ecb",
+    "chapter-27-decisive-experiments-for-the-next-generation.md": "bb84f332ffbb6a16bc04d792430b6e66fa91e4d89f37afd034187a3dc7a8e9b4",
+    "downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx": "898a831d4485da48b042ce2c1301044478633663fff3c8d354a30c14fa78a148",
+    "downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf": "ec38edf42d22656da17334ccfc2f50586d414d119716649bd0eb4459a5374b61",
+    "part-iii-from-dna-to-the-first-life/chapter-10-rna-and-proteins-as-material-execution-machinery.md": "3ccd9fd2deca84e6b082748e78a50839b2bcc35a4303f5ccf8b15ea460c17246",
+    "part-iii-from-dna-to-the-first-life/chapter-13-minimal-cells-and-jcvi-syn3a.md": "c195737c2ebc8beddbc61488a4e0107074fbb378f90c9467ed9ae852612a9fc8",
+    "part-iii-from-dna-to-the-first-life/chapter-14-what-does-a-mother-cell-distribute-to-its-two-daughters.md": "95c6edbeca16b1ee926f1ba1a47ea4e0c8cd6689fc4f6384fe53ff18b4fd7bb5",
+    "part-iii-from-dna-to-the-first-life/chapter-15-synthetic-protocells-and-the-birth-of-generations.md": "3f276d3322116bb41f67b1f01a38a291dc617bfa37fa2c1b1f974dae224f69f7",
+    "part-iv-from-epigenetic-memory-to-cell-fate/chapter-24-extending-wrra-to-the-nervous-system-and-behavior.md": "8f35ea12da7fbed3a3255c9785a6f53f87ea7ce7a12d7c50c5920220eda50990",
+    "part-v-biotechnology-applications-of-wrra/chapter-26-biotechnology-applications-of-wrra.md": "3988dc080a6175932532bf2673f88769173f313a25f7ca35a62ed8cbd1842fe2",
+    "part-v-biotechnology-applications-of-wrra/chapter-27-decisive-experiments-for-the-next-generation.md": "02fbb14775532803780a917c74e718b5504b1084616529468d6744deea3fc663",
+    "undefined/README.md": "5eaf63cdbb4a8f342370e03466c810747cf7ce7acbc3ff937f39f68565c1eb5d",
+    "undefined/home/appendices/app6.md": "eb05505caf79dff142633484bde0df3fcbf3b89b3f337c646ae48a1f3b49eafa",
+    "undefined/home/part3/ch10.md": "d842c6b82c55666a84e95f8b7c49c9b912f5aab1811722b1713c84dc3d8a6a67",
+    "undefined/home/part3/ch13.md": "a66ae56cfaeac0ef17cc34e49a8e158e3cd1395fc1755bcbee8ff00f5cbcc3a1",
+    "undefined/home/part3/ch14.md": "7e4701ce5c59dcfb1e156b7567863d2111a31d1e4593b31121e378b2deb08cf9",
+    "undefined/home/part3/ch15.md": "82d7d95e77d85c01380e5f80af3d3f868b79100f5407d57e7282d4e1624881d5",
+    "undefined/home/part4/ch24.md": "180e7f50066deddbdeb4c3278153a495d13d85baa7cfe1f3221ed01007cc30ca",
+    "undefined/home/part5/ch26.md": "70efcf20dd270701e6b5fa5fc206a8c4fbbfb9d8e3eb61bf37beb5451413d8b9",
+    "undefined/home/part5/ch27.md": "e5ac6120951354468144eda0812a401455dce029b59756037ddb2e55bbb807a9"
+  }
+}

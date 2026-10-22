@@ -16,7 +16,7 @@ Life is not an inventory of matter. It is a process in which information is exec
 
 **Wonsik Choi · Jeongin Choi**\
 [janefather@gmail.com](mailto:janefather@gmail.com)\
-English Edition · 2026
+English Web Edition v2.7.4 · 22 October 2026
 
 ### About This Book
 
@@ -25,6 +25,9 @@ WRRA began with the author’s intuition that the universe might operate under a
 This book reconstructs a series of WRRA-based biological studies as a single narrative. Its first axis runs from DNA sequence through protein execution, minimal cells, daughter-cell partitioning, synthetic protocells, and the first life. Its second axis runs from epigenetic memory through cell differentiation, aging, cancer, spatial niches, and causal editing.
 
 This revised edition strengthens the molecular execution layer connecting those two axes. It integrates DNA replication and repair, transcription and RNA processing, post-translational protein quality control, prokaryotic and eukaryotic gene regulation, natural CRISPR-Cas immunity, membrane transport, and energy coupling into the existing chapters. These mechanisms are not claimed as original WRRA discoveries; they are used as established biological routes by which SOURCE becomes function and lineage. The edition also adds WRRA-Motor H2 as a case study and provides a reproducible procedure for using WRRA Core 1.0 from Zenodo as a reference document in AI-assisted research.
+
+
+Version 2.7.4 connects five audit distinctions: executable inheritance, internal resources and external supply, information and its interpretation machinery, individual lineages and aggregate balances, and observation versus control. Existing discussions in Chapters 10, 13, 14, 15 and 24 are strengthened; Chapter 26 adds a cross-study ledger, and Chapter 27 adds application priorities and decision criteria. Newly proposed audit criteria are identified as proposals, rather than retrospectively presented as completed computations or biological experiments.
 
 Established science is the starting point of this book. The central dogma, cell-free translation, minimal genomes, whole-cell models, lineage tracing, epigenome editing, and protocell research are presented first; what WRRA newly rearranges or calculates is then identified separately. Restatements of prior work, original WRRA claims, and untested predictions are therefore not conflated.
 
@@ -52,3 +55,9 @@ Rights remain those stated in this repository and its linked archival record.
 
 
 **ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
+
+## Edition Files
+
+- [v2.7.4 Korean PDF](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf)
+- [v2.7.4 Korean Word manuscript](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx)
+- [Zenodo version history](https://doi.org/10.5281/zenodo.22967006)

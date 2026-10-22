@@ -43,6 +43,13 @@ Table 18. WRRA-Worm 0.1 Internal Results.
 
 This case illustrates an upper renderer layer where cellular components generated from genes lead to behavioral phenotypes through network-state-environment loops. However, the full 302-neuron model, polarity and weight measurements, calcium imaging, muscle-body-environment closed loops, and holdout excision verification are open.
 
+
+### Reading a State and Controlling It
+
+Separate observations y, estimated internal state x-hat, intervention u, actual outcomes and costs. Multiple internal states can explain the same observation. A good state estimate therefore does not determine an intervention's effect. Measurement error, state-estimation error, model mismatch and control costs require separate assessments.
+
+The WRRA-Worm toy-circuit results follow the same boundary. Reproducing state transitions and behavior within the model is valid within that scope. Claims of biological control require fixed objectives, comparison criteria and evaluation periods, followed by comparison with actual intervention outcomes and costs. A description of state must not be promoted to a demonstration of control.
+
 ## Next Step
 
 Now, the research results are translated into audit procedures for actual gene editing and cell design.

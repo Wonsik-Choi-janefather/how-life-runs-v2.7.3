@@ -83,3 +83,14 @@
 > WRRA-Cell A cell model that audits present state, residue, environment, and phenotype before and after gene perturbation as separate layers.
 >
 > WRRA-Worm A toy model implementing the sensory–neural–body–behavior–environment closed loop of C. elegans through the Fixed-Present and a relation ledger.
+
+## Additional Terms in v2.7.4
+
+Executable inheritance: whether offspring receive the information, resources and working machinery needed to continue function under declared environmental conditions and observation periods.
+
+Resource boundary: the declared system boundary and its inputs, outputs and replacements, used to distinguish internal reproduction from external support.
+
+Tracking resolution: the unit actually distinguished by the data, such as an individual molecule, molecular pool, cell, lineage or population.
+
+State estimation and control: reconstructing an internal state from observations and producing a target outcome through intervention, with errors and costs assessed separately.
+

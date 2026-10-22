@@ -47,6 +47,13 @@ Table 41. Determination of separation between protocell persistence and autonomy
 | Ribosome renewal               | Decomposes but is not reconstructed        | FAIL/OPEN                       |
 | Autonomous closure Λ\_auto     | External feeder/molecular support required | NOT ESTABLISHED                 |
 
+
+### Comparing Persistence While Preserving Support Conditions
+
+Evaluate lineage persistence first under the external support conditions in which it was observed. Then connect support types, timing, machinery replacement and contributions from initial stocks in a separate ledger. Multigenerational persistence, self-renewal of essential machinery and reduced external dependence are distinct questions; success in one does not establish the others.
+
+This distinction preserves the achievements of prior work while making different success conditions comparable. Recognize the persistence supported by the evidence, and leave only unmeasured generation-by-generation machinery renewal OPEN.
+
 ## Next Step
 
 Then, under what conditions should the strong threshold of the first life be defined?

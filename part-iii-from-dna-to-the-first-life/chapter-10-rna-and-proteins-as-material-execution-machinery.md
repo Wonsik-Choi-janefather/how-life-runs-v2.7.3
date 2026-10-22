@@ -88,6 +88,13 @@ The boundary between interpretation and prediction: The sequence of transcriptio
 
 Chapter 26 applies the translation, folding, and assembly principles of this chapter to the design of a 'walking protein'. For WRRA-Motor H2, which combines a KIF5B motor core with a new coiled-coil gate, to actually walk, not only the sequence but also dimer assembly, ATPase, alternating coupling of the two heads, 8 nm directional shift, and load response must be verified together.
 
+
+### Recording the Connection from Information to Function
+
+A record that genetic information is present must be connected to a record that it was executed through material processes. Transcripts, translation products, active complexes and functional outputs are different states. Each connection should specify the machinery and cofactors required, and whether that machinery came from initial stocks, inheritance or new production within the current system.
+
+A common carrier is more than a table format. Shared translation machinery or transport and update structures are biological candidates for this role. Sharing machinery does not erase the identity of a gene product or the cell whose state is being described. The proposed audit makes missing connections between information detection and functional execution visible. Where the necessary observations are unavailable, the connection remains OPEN.
+
 ## Next Step
 
 The next chapter covers how this multilayer execution is turned on and off, and what natural CRISPR-Cas and genetic perturbation data measure.
