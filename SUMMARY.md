@@ -59,10 +59,11 @@
 * [Glossary](appendices/glossary.md)
 * [Authors and Contact](appendices/authors-and-contact.md)
 
+* [Next-execution readiness — supplement v0.1](appendices/next-execution-readiness.md)
+
 ## Archive
 
 * [Full Front Matter](archive/full-front-matter.md)
 * [Source Table of Contents](archive/source-table-of-contents.md)
 * [Complete Imported Manuscript](archive/complete-imported-manuscript.md)
 
-* [Next-execution readiness — supplement v0.1](appendices/next-execution-readiness.md)
