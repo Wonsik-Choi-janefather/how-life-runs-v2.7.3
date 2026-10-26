@@ -68,6 +68,16 @@ The memory effect disappears when cell type, cycle, environment, and survivor bi
 
 ## Next Step
 
+### LARRY data audit update of 26 October 2026
+
+We obtained the EPI-Clone M.1–M.3 integrated Seurat object and verified the complete 173,210,114-byte file against the Figshare MD5. Matrix and metadata cell IDs were aligned. Of 28,782 cells, 14,396 carried 527 LARRY barcodes. M.1 contained 8,923 labeled cells out of 13,885 and 367 barcodes; M.2 contained 5,473 out of 7,896 and 160 barcodes. M.3 had 7,001 cells without LARRY ground truth. LARRYSize agreed with observed cell counts for all 527 barcodes. This passes an internal metadata-consistency check, not an independent biological measurement of clone size.
+
+AB.data contains 415,365 nonfinite entries among 575,640 elements. Only 454 M.1 cells have finite values for all 20 antibodies; no M.2 or M.3 cell does. The full object must not be treated as complete paired DNA–protein observations, and nonfinite values must not be silently replaced with zero expression. Their origin requires a preprocessing review. The 276 barcodes observed in multiple annotated cell types are descriptive evidence, not independent proof of multipotency or causal memory.
+
+Data accessibility and cell-level correspondence are now established. Shared LARRY labels identify clone membership, not a complete mother–daughter division tree; Pseudotime is neither exact generation nor elapsed time. Thus the per-generation decay and coupled transfer matrix in equations (43)–(47) remain OPEN. Original AUC/ARI reproduction, conditional permutations controlling cell type and batch, and causal write–erase–rewrite testing are not completed by this audit.
+
+[The separate technical manuscript and executable audit](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/tree/main/research/larry-audit-v0.1) and [the detailed book supplement](../appendices/larry-audit.md) preserve hashes and results. Source dataset DOI: [10.6084/m9.figshare.24204750.v2](https://doi.org/10.6084/m9.figshare.24204750.v2). Original paper DOI: [10.1038/s41586-025-09041-8](https://doi.org/10.1038/s41586-025-09041-8). Attribution to the original authors and the frozen WRRA core are unchanged.
+
 Verify whether the DNA layer predicts the protein definition state in external organisms using public multi-omics data.
 
 ### DOIs for This Chapter

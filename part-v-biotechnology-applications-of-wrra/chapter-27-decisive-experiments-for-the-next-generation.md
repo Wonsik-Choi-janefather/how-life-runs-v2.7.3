@@ -100,6 +100,12 @@ This paper does not declare the empirical verification of new laws of biology. T
 
 ## Next Step
 
+### Updated LARRY validation boundary
+
+As of 26 October 2026, the integrated EPI-Clone object has passed complete-download, hash, cell-label alignment and internal clone-size consistency checks. Access to this object is no longer the immediate blocker. References above to untested direct LARRY residuals now concern pending performance reproduction, confounder control and memory-model tests; access success does not imply their completion.
+
+The next calculation must recover the source preprocessing and the denominator for the 0.25% criterion, freeze M.1 settings and evaluate M.2. It must account for experiment-specific antibody nonfinite patterns and label coverage, and separate clones across training and evaluation when claiming new-lineage prediction. This cross-sectional object alone cannot identify generation-specific memory half-lives or causal transmission. See [Chapter 18](../part-iv-from-epigenetic-memory-to-cell-fate/chapter-18-how-do-cells-remember-the-past.md) and [the detailed supplement](../appendices/larry-audit.md).
+
 Life is not a finished product, but a process of passing on feasibility to the next generation. I conclude the main body of this book with this definition.
 
 ### DOIs for This Chapter

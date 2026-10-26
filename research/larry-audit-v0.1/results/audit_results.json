@@ -1,0 +1,154 @@
+{
+  "audit_version": "0.1",
+  "audit_date": "2026-10-26",
+  "input_size": 173210114,
+  "input_md5": "0cc0bc53add7acb3aee39c673ff8adba",
+  "input_sha256": "d321321b7b3e9fddd038f7707ce5d0d6039c758efe2100c6f2baef01be42c2d1",
+  "python": "3.12.14",
+  "rdata": "1.1.0",
+  "metadata_shape": [
+    28782,
+    10
+  ],
+  "metadata_columns": [
+    "ProcessingBatch",
+    "PerformanceNonHhaI",
+    "nFeature_DNAm",
+    "CellType",
+    "LARRY",
+    "LARRYSize",
+    "Pseudotime",
+    "Experiment",
+    "Fluorophore",
+    "GFP.or.Saphire"
+  ],
+  "labeled_cells": 14396,
+  "barcodes": 527,
+  "size_consistency_passed_barcodes": 527,
+  "experiments": [
+    {
+      "experiment": "LARRY main experiment",
+      "cells": 13885,
+      "labeled_cells": 8923,
+      "label_coverage": 0.6426359380626575,
+      "barcodes": 367,
+      "batches": 4
+    },
+    {
+      "experiment": "LARRY replicate",
+      "cells": 7896,
+      "labeled_cells": 5473,
+      "label_coverage": 0.6931357649442755,
+      "barcodes": 160,
+      "batches": 2
+    },
+    {
+      "experiment": "Native Hematopoieis",
+      "cells": 7001,
+      "labeled_cells": 0,
+      "label_coverage": 0.0,
+      "barcodes": 0,
+      "batches": 1
+    }
+  ],
+  "matrices": {
+    "DNAm.counts": {
+      "shape": [
+        453,
+        28782
+      ],
+      "stored_entries": 8602530,
+      "nonfinite_stored_entries": 0
+    },
+    "DNAm.data": {
+      "shape": [
+        453,
+        28782
+      ],
+      "stored_entries": 8602530,
+      "nonfinite_stored_entries": 0
+    },
+    "integrated.counts": {
+      "shape": [
+        0,
+        0
+      ],
+      "empty": true
+    },
+    "integrated.data": {
+      "shape": [
+        453,
+        28782
+      ],
+      "stored_entries": 12057291,
+      "nonfinite_stored_entries": 0
+    },
+    "AB.counts": {
+      "shape": [
+        20,
+        28782
+      ],
+      "stored_entries": 575640,
+      "nonfinite_stored_entries": 415365
+    },
+    "AB.data": {
+      "shape": [
+        20,
+        28782
+      ],
+      "nonfinite_entries": 415365
+    }
+  },
+  "reductions": {
+    "pca": [
+      28782,
+      30
+    ],
+    "umap": [
+      28782,
+      2
+    ]
+  },
+  "barcodes_in_multiple_cell_types": 276,
+  "barcodes_in_multiple_processing_batches": 216,
+  "antibody_coverage": [
+    {
+      "experiment": "Native Hematopoieis",
+      "cells": 7001,
+      "cells_with_any_finite_antibody": 6980,
+      "cells_with_all_20_finite_antibodies": 0,
+      "finite_entries": 21079,
+      "total_entries": 140020
+    },
+    {
+      "experiment": "LARRY replicate",
+      "cells": 7896,
+      "cells_with_any_finite_antibody": 3849,
+      "cells_with_all_20_finite_antibodies": 0,
+      "finite_entries": 48519,
+      "total_entries": 157920
+    },
+    {
+      "experiment": "LARRY main experiment",
+      "cells": 13885,
+      "cells_with_any_finite_antibody": 7217,
+      "cells_with_all_20_finite_antibodies": 454,
+      "finite_entries": 90677,
+      "total_entries": 277700
+    }
+  ],
+  "conversion_warnings": [
+    "Missing constructor for R class \"Assay\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"DimReduc\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"IntegrationData\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"JackStrawData\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"POSIXct\". The constructor for class \"POSIXt\" will be used instead.",
+    "Missing constructor for R class \"POSIXt\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"Seurat\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"SeuratCommand\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"dgCMatrix\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"numeric_version\". The underlying R object is returned instead.",
+    "Missing constructor for R class \"package_version\". The constructor for class \"numeric_version\" will be used instead."
+  ],
+  "scope": "Structural and metadata audit only; no AUC/ARI reproduction or causal memory test."
+}

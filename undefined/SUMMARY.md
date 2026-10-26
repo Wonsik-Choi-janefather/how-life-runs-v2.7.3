@@ -42,3 +42,4 @@
     * [용어 해설](home/appendices/app6.md)
     * [저자 및 연락](home/appendices/app7.md)
     * [다음 실행 가능성 — 보강 v0.1](home/appendices/next-execution-readiness.md)
+    * [LARRY 계보 정답과 후성유전 기억 검증](home/appendices/larry-audit.md)

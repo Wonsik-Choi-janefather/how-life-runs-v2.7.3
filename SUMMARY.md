@@ -60,6 +60,7 @@
 * [Authors and Contact](appendices/authors-and-contact.md)
 
 * [Next-execution readiness — supplement v0.1](appendices/next-execution-readiness.md)
+* [LARRY labels and epigenetic memory validation](appendices/larry-audit.md)
 
 ## Archive
 
