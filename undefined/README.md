@@ -1,3 +1,10 @@
+---
+description: >-
+  최원식·최정인의 《생명은 어떻게 실행되는가》. DNA와 단백질, 최소세포, 후성유전 기억과 세포분화를 정보의 실행과 계승이라는 WRRA
+  관점에서 탐구합니다.
+tagTitle: 생명은 어떻게 실행되는가 | 최소세포·DNA·WRRA
+---
+
 # 생명은 어떻게 실행되는가
 
 ## 생명은 어떻게 실행되는가
@@ -26,7 +33,6 @@ WRRA는 ‘우주가 최소계산의 원칙 아래 움직일 것’이라는 저
 이 책은 WRRA를 생물학에 적용해 수행한 일련의 연구를 하나의 서사로 다시 구성한다. DNA 서열에서 단백질 실행, 최소세포, 딸세포 분배, 합성 프로토셀과 최초 생명으로 이어지는 첫 번째 축과, 후성유전 기억에서 세포분화, 노화, 암, 공간 niche와 인과적 편집으로 이어지는 두 번째 축을 함께 다룬다.
 
 개정판은 이 두 축 사이에 있던 분자 실행층을 보강했다. DNA 복제와 수선, 전사와 RNA 가공, 번역 뒤 단백질 품질관리, 원핵·진핵 유전자 조절, 자연적 CRISPR-Cas 면역, 막수송과 에너지 결합을 기존 장 안에 통합했다. 이 기작들은 WRRA의 독자적 발견으로 주장하지 않으며, SOURCE가 실제 기능과 계통으로 이어지는 표준 생물학적 경로로 사용한다. 이번 보강판은 WRRA-Motor H2 연구를 사례로 추가하고, 독자가 WRRA Core 1.0을 Zenodo에서 받아 AI와 문서기반 공동연구를 재현하는 절차를 별도로 제시한다.
-
 
 이번 개정에서는 실행 가능한 상속, 내부 자원과 외부 공급, 정보와 해석 장치, 개별 계보와 총량, 상태 관측과 제어의 다섯 구분을 하나의 감사 기준으로 연결했다. 제10·13·14·15·24장의 기존 설명을 보강하고, 제26장에는 연구 간 비교 장부를, 제27장에는 적용 우선순위와 판정 기준을 덧붙였다. 새 감사 기준은 연구 제안이며, 기존 계산 결과나 생체 실험의 성과로 소급해 표시하지 않는다.
 
@@ -112,6 +118,22 @@ WRRA는 ‘우주가 최소계산의 원칙 아래 움직일 것’이라는 저
 
 ## 개정판 파일
 
-- [v2.7.4 Korean PDF](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf)
-- [v2.7.4 Korean Word manuscript](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx)
-- [Zenodo version history](https://doi.org/10.5281/zenodo.22967006)
+* [v2.7.4 Korean PDF](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf)
+* [v2.7.4 Korean Word manuscript](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx)
+* [Zenodo version history](https://doi.org/10.5281/zenodo.22967006)
+
+## 함께 읽는 책
+
+연결되는 주제를 아래 책에서 이어 읽을 수 있습니다.
+
+* [최소계산우주론 3.0](https://app.gitbook.com/s/stpIdG8pZJWuVKm2a6jt/)
+* [WRRA 신경심리학](https://app.gitbook.com/s/azRHvHXQFvsmjH76lkcv/)
+* [세 개의 선](https://app.gitbook.com/s/GhlenltbeOkRfbWAt3qW/)
+
+### 이 책 공유하기
+
+공유할 때 아래 공개 주소와 관련 태그를 함께 사용할 수 있습니다.
+
+https://independent-research.gitbook.io/independent-research-docs/
+
+\#생명은어떻게실행되는가 #최소세포 #후성유전 #MinimalCell #SyntheticBiology #WRRA
