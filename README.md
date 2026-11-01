@@ -1,7 +1,9 @@
 ---
 description: >-
-  Rereading DNA, Proteins, Epigenetic Memory, Cell Differentiation, Minimal
-  Cells, and the First Life through WRRA
+  How Life Runs by Wonsik Choi and Jeongin Choi explores DNA, proteins, minimal
+  cells, epigenetic memory and differentiation through execution and
+  inheritance.
+tagTitle: How Life Runs | DNA, Minimal Cells and WRRA
 ---
 
 # How Life Runs
@@ -26,7 +28,6 @@ This book reconstructs a series of WRRA-based biological studies as a single nar
 
 This revised edition strengthens the molecular execution layer connecting those two axes. It integrates DNA replication and repair, transcription and RNA processing, post-translational protein quality control, prokaryotic and eukaryotic gene regulation, natural CRISPR-Cas immunity, membrane transport, and energy coupling into the existing chapters. These mechanisms are not claimed as original WRRA discoveries; they are used as established biological routes by which SOURCE becomes function and lineage. The edition also adds WRRA-Motor H2 as a case study and provides a reproducible procedure for using WRRA Core 1.0 from Zenodo as a reference document in AI-assisted research.
 
-
 Version 2.7.4 connects five audit distinctions: executable inheritance, internal resources and external supply, information and its interpretation machinery, individual lineages and aggregate balances, and observation versus control. Existing discussions in Chapters 10, 13, 14, 15 and 24 are strengthened; Chapter 26 adds a cross-study ledger, and Chapter 27 adds application priorities and decision criteria. Newly proposed audit criteria are identified as proposals, rather than retrospectively presented as completed computations or biological experiments.
 
 Established science is the starting point of this book. The central dogma, cell-free translation, minimal genomes, whole-cell models, lineage tracing, epigenome editing, and protocell research are presented first; what WRRA newly rearranges or calculates is then identified separately. Restatements of prior work, original WRRA claims, and untested predictions are therefore not conflated.
@@ -35,29 +36,43 @@ Every chapter follows the same contract. Reconstructing an observed structure is
 
 **Core proposition** DNA is not life itself; it is SOURCE. Life is the recurrent process by which SOURCE passes through LAW and STATE and is materially rendered as proteins, metabolism, membranes, division, and lineage.
 
----
+***
 
 ## Central corpus index
 
 This work is part of the open research and publishing corpus of **Wonsik Choi (최원식)**.
 
-- [Central Research & Publications Index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/PUBLICATIONS.md)
-- [Public GitBook index](https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications)
-- [Machine-readable corpus index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/works.json)
-- Identity: [janefather@gmail.com](mailto:janefather@gmail.com)
+* [Central Research & Publications Index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/PUBLICATIONS.md)
+* [Public GitBook index](https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications)
+* [Machine-readable corpus index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/works.json)
+* Identity: [janefather@gmail.com](mailto:janefather@gmail.com)
 
 Rights remain those stated in this repository and its linked archival record.
 
 **Copyright (C) 2026 Wonsik Choi**
 
-
 **ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
-
 
 **ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
 
 ## Edition Files
 
-- [v2.7.4 Korean PDF](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf)
-- [v2.7.4 Korean Word manuscript](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx)
-- [Zenodo version history](https://doi.org/10.5281/zenodo.22967006)
+* [v2.7.4 Korean PDF](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.pdf)
+* [v2.7.4 Korean Word manuscript](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3/raw/refs/heads/main/downloads/v2.7.4/How_Life_Runs_v2.7.4_KO.docx)
+* [Zenodo version history](https://doi.org/10.5281/zenodo.22967006)
+
+## Explore related books
+
+Continue with these related books by Wonsik Choi:
+
+* [Minimal Computing Cosmology 3.0](https://app.gitbook.com/s/Ufq99NCn5Hrmk3TzroMR/)
+* [WRRA 신경심리학](https://app.gitbook.com/s/azRHvHXQFvsmjH76lkcv/)
+* [Three Lines](https://app.gitbook.com/s/bZhK5rCPGO1DNxXraHul/)
+
+### Share this book
+
+Copy the book’s public link and the relevant tags when sharing.
+
+https://independent-research.gitbook.io/independent-research-docs/
+
+\#생명은어떻게실행되는가 #최소세포 #후성유전 #MinimalCell #SyntheticBiology #WRRA
