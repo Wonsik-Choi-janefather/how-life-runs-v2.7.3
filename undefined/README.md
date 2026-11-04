@@ -7,6 +7,8 @@ tagTitle: 생명은 어떻게 실행되는가 | 최소세포·DNA·WRRA
 
 # 생명은 어떻게 실행되는가
 
+최원식 · ORCID [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
+
 ## 생명은 어떻게 실행되는가
 
 **WRRA BIOLOGY & BIOTECHNOLOGY**
