@@ -7,6 +7,8 @@ tagTitle: 생명은 어떻게 실행되는가 | 최소세포·DNA·WRRA
 
 # 생명은 어떻게 실행되는가
 
+[**한국어판 전체 PDF 내려받기 · v2.7.4**](https://zenodo.org/records/23550248/files/How_Life_Runs_v2.7.4_KO.pdf?download=1)
+
 최원식 · ORCID [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
 
 ## 생명은 어떻게 실행되는가
